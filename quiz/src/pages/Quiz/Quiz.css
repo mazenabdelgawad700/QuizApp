@@ -1,0 +1,14 @@
+.quiz {
+  width: 500px;
+}
+.answer-container {
+  padding: 0.6rem 0.9rem;
+  border: 1px solid #fff;
+}
+
+.timer {
+  border: 2px solid #eee;
+  border-radius: 50%;
+  height: 50px;
+  width: 50px;
+}

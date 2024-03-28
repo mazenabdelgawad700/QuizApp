@@ -1,0 +1,20 @@
+.homeForm {
+  min-width: 500px;
+  max-width: 500px;
+  max-height: 500px;
+}
+
+.homeForm select {
+  width: 100%;
+  cursor: pointer;
+  outline: none;
+}
+
+label,
+h1 {
+  word-wrap: break-word;
+}
+
+.start {
+  max-width: fit-content;
+}

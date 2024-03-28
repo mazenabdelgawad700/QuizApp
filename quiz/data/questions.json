@@ -1,0 +1,359 @@
+{
+  "football": [
+    {
+      "id": 1,
+      "question": "Who is the goat?",
+      "answer_1": "Ronaldo",
+      "answer_2": "Messi",
+      "answer_3": "Nymar",
+      "answer_4": "Mazen",
+      "right_answer": "Ronaldo"
+    },
+    {
+      "id": 2,
+      "question": "In which country was the first FIFA World Cup held?",
+      "answer_1": "Brazil",
+      "answer_2": "Germany",
+      "answer_3": "Uruguay",
+      "answer_4": "France",
+      "right_answer": "Uruguay"
+    },
+    {
+      "id": 3,
+      "question": "Who won the Ballon d'Or in 2020?",
+      "answer_1": "Lionel Messi",
+      "answer_2": "Cristiano Ronaldo",
+      "answer_3": "Robert Lewandowski",
+      "answer_4": "No Ballon d'Or held in 2020",
+      "right_answer": "No Ballon d'Or held in 2020"
+    },
+    {
+      "id": 4,
+      "question": "Which club has won the most UEFA Champions League titles?",
+      "answer_1": "Barcelona",
+      "answer_2": "Real Madrid",
+      "answer_3": "AC Milan",
+      "answer_4": "Bayern Munich",
+      "right_answer": "Real Madrid"
+    },
+    {
+      "id": 5,
+      "question": "Who is the all-time top scorer in the English Premier League?",
+      "answer_1": "Thierry Henry",
+      "answer_2": "Alan Shearer",
+      "answer_3": "Wayne Rooney",
+      "answer_4": "Andy Cole",
+      "right_answer": "Alan Shearer"
+    },
+    {
+      "id": 6,
+      "question": "Which country won the 2018 FIFA World Cup?",
+      "answer_1": "France",
+      "answer_2": "Croatia",
+      "answer_3": "Brazil",
+      "answer_4": "Germany",
+      "right_answer": "France"
+    },
+    {
+      "id": 7,
+      "question": "Who is known as the 'Egyptian King' in football?",
+      "answer_1": "Mohamed Salah",
+      "answer_2": "Ahmed Hegazi",
+      "answer_3": "Mahmoud Hassan Trezeguet",
+      "answer_4": "Ahmed Elmohamady",
+      "right_answer": "Mohamed Salah"
+    },
+    {
+      "id": 8,
+      "question": "Which goalkeeper has won the most Ballon d'Or awards?",
+      "answer_1": "Gianluigi Buffon",
+      "answer_2": "Iker Casillas",
+      "answer_3": "Manuel Neuer",
+      "answer_4": "Lev Yashin",
+      "right_answer": "Lev Yashin"
+    },
+    {
+      "id": 9,
+      "question": "Who is the manager of Liverpool FC as of 2022?",
+      "answer_1": "Jurgen Klopp",
+      "answer_2": "Pep Guardiola",
+      "answer_3": "Carlo Ancelotti",
+      "answer_4": "Zinedine Zidane",
+      "right_answer": "Jurgen Klopp"
+    },
+    {
+      "id": 10,
+      "question": "Which player is nicknamed 'The Egyptian Messi'?",
+      "answer_1": "Mohamed Salah",
+      "answer_2": "Sadio Mane",
+      "answer_3": "Hakim Ziyech",
+      "answer_4": "Mohamed Elneny",
+      "right_answer": "Mohamed Salah"
+    },
+    {
+      "id": 11,
+      "question": "Who holds the record for the most goals scored in a single UEFA Champions League season?",
+      "answer_1": "Lionel Messi",
+      "answer_2": "Cristiano Ronaldo",
+      "answer_3": "Robert Lewandowski",
+      "answer_4": "Neymar",
+      "right_answer": "Cristiano Ronaldo"
+    },
+    {
+      "id": 12,
+      "question": "Which nation has won the most Copa America titles?",
+      "answer_1": "Argentina",
+      "answer_2": "Uruguay",
+      "answer_3": "Brazil",
+      "answer_4": "Chile",
+      "right_answer": "Uruguay"
+    },
+    {
+      "id": 13,
+      "question": "Who is the all-time leading scorer for the German national football team?",
+      "answer_1": "Miroslav Klose",
+      "answer_2": "Thomas Muller",
+      "answer_3": "Mario Gomez",
+      "answer_4": "Oliver Bierhoff",
+      "right_answer": "Miroslav Klose"
+    }
+  ],
+  "programming": [
+    {
+      "id": 1,
+      "question": "What does HTML stand for in web development?",
+      "answer_1": "Hypertext Markup Language",
+      "answer_2": "High-level Text Modeling Language",
+      "answer_3": "Hyperlink and Text Markup Language",
+      "answer_4": "Hypertext and Typography Language",
+      "right_answer": "Hypertext Markup Language"
+    },
+    {
+      "id": 2,
+      "question": "Which programming language is often used for developing mobile applications?",
+      "answer_1": "Java",
+      "answer_2": "Swift",
+      "answer_3": "C++",
+      "answer_4": "Python",
+      "right_answer": "Swift"
+    },
+    {
+      "id": 3,
+      "question": "What is the purpose of CSS in web development?",
+      "answer_1": "Client-Side Scripting",
+      "answer_2": "Content Sharing System",
+      "answer_3": "Cascading Style Sheets",
+      "answer_4": "Computer Style Syntax",
+      "right_answer": "Cascading Style Sheets"
+    },
+    {
+      "id": 4,
+      "question": "Which programming paradigm does JavaScript support?",
+      "answer_1": "Functional Programming",
+      "answer_2": "Imperative Programming",
+      "answer_3": "Object-Oriented Programming",
+      "answer_4": "All of the above",
+      "right_answer": "All of the above"
+    },
+    {
+      "id": 5,
+      "question": "What is the primary purpose of a version control system like Git?",
+      "answer_1": "To write code",
+      "answer_2": "To test code",
+      "answer_3": "To track changes in source code",
+      "answer_4": "To design user interfaces",
+      "right_answer": "To track changes in source code"
+    },
+    {
+      "id": 6,
+      "question": "Which database type is known for its schema-less structure?",
+      "answer_1": "Relational Database",
+      "answer_2": "NoSQL Database",
+      "answer_3": "Object-Oriented Database",
+      "answer_4": "Graph Database",
+      "right_answer": "NoSQL Database"
+    },
+    {
+      "id": 7,
+      "question": "What is the purpose of the 'alt' attribute in HTML image tags?",
+      "answer_1": "To provide alternative text for screen readers",
+      "answer_2": "To specify image alignment",
+      "answer_3": "To set image width and height",
+      "answer_4": "To add a title to the image",
+      "right_answer": "To provide alternative text for screen readers"
+    },
+    {
+      "id": 8,
+      "question": "In Python, what is the keyword used to declare a function?",
+      "answer_1": "def",
+      "answer_2": "function",
+      "answer_3": "define",
+      "answer_4": "func",
+      "right_answer": "def"
+    },
+    {
+      "id": 9,
+      "question": "Which data structure follows the Last In, First Out (LIFO) principle?",
+      "answer_1": "Queue",
+      "answer_2": "Stack",
+      "answer_3": "Linked List",
+      "answer_4": "Array",
+      "right_answer": "Stack"
+    },
+    {
+      "id": 10,
+      "question": "What is the purpose of the 'else' statement in conditional structures?",
+      "answer_1": "To execute code only if a condition is true",
+      "answer_2": "To handle errors",
+      "answer_3": "To execute code only if a condition is false",
+      "answer_4": "To loop through code",
+      "right_answer": "To execute code only if a condition is false"
+    },
+    {
+      "id": 11,
+      "question": "Which programming language is often used for machine learning and data science?",
+      "answer_1": "JavaScript",
+      "answer_2": "Python",
+      "answer_3": "Java",
+      "answer_4": "C#",
+      "right_answer": "Python"
+    },
+    {
+      "id": 12,
+      "question": "What does API stand for in software development?",
+      "answer_1": "Application Programming Interface",
+      "answer_2": "Advanced Programming Interface",
+      "answer_3": "Automated Program Instruction",
+      "answer_4": "Application Processing Interface",
+      "right_answer": "Application Programming Interface"
+    },
+    {
+      "id": 13,
+      "question": "In JavaScript, what is the purpose of the 'const' keyword?",
+      "answer_1": "To declare a constant variable",
+      "answer_2": "To declare a function",
+      "answer_3": "To create a loop",
+      "answer_4": "To import external libraries",
+      "right_answer": "To declare a constant variable"
+    }
+  ],
+  "games": [
+    {
+      "id": 1,
+      "question": "Which iconic character is known for jumping over barrels in the game 'Donkey Kong'?",
+      "answer_1": "Link",
+      "answer_2": "Mario",
+      "answer_3": "Sonic",
+      "answer_4": "Pac-Man",
+      "right_answer": "Mario"
+    },
+    {
+      "id": 2,
+      "question": "In the game 'The Legend of Zelda,' what is the name of the princess that Link frequently rescues?",
+      "answer_1": "Princess Daisy",
+      "answer_2": "Princess Peach",
+      "answer_3": "Princess Zelda",
+      "answer_4": "Princess Rosalina",
+      "right_answer": "Princess Zelda"
+    },
+    {
+      "id": 3,
+      "question": "Which popular video game franchise features a character named Master Chief?",
+      "answer_1": "Call of Duty",
+      "answer_2": "Halo",
+      "answer_3": "Gears of War",
+      "answer_4": "Destiny",
+      "right_answer": "Halo"
+    },
+    {
+      "id": 4,
+      "question": "What is the primary objective of players in the game 'Minecraft'?",
+      "answer_1": "Survive and build",
+      "answer_2": "Race cars",
+      "answer_3": "Cook recipes",
+      "answer_4": "Defeat monsters",
+      "right_answer": "Survive and build"
+    },
+    {
+      "id": 5,
+      "question": "Which popular video game series features a character named Solid Snake?",
+      "answer_1": "Final Fantasy",
+      "answer_2": "Metal Gear Solid",
+      "answer_3": "Assassin's Creed",
+      "answer_4": "Resident Evil",
+      "right_answer": "Metal Gear Solid"
+    },
+    {
+      "id": 6,
+      "question": "In the game 'Super Mario Bros.,' what does Mario use to defeat enemies?",
+      "answer_1": "Hammer",
+      "answer_2": "Sword",
+      "answer_3": "Fireball",
+      "answer_4": "Boomerang",
+      "right_answer": "Fireball"
+    },
+    {
+      "id": 7,
+      "question": "Which gaming console is known for its motion-sensing controllers?",
+      "answer_1": "PlayStation",
+      "answer_2": "Xbox",
+      "answer_3": "Nintendo Switch",
+      "answer_4": "Wii",
+      "right_answer": "Wii"
+    },
+    {
+      "id": 8,
+      "question": "In the game 'Pokémon,' what type is Pikachu?",
+      "answer_1": "Water",
+      "answer_2": "Electric",
+      "answer_3": "Fire",
+      "answer_4": "Grass",
+      "right_answer": "Electric"
+    },
+    {
+      "id": 9,
+      "question": "Which popular game features a battle royale mode with a shrinking play area?",
+      "answer_1": "Fortnite",
+      "answer_2": "Apex Legends",
+      "answer_3": "PlayerUnknown's Battlegrounds (PUBG)",
+      "answer_4": "Call of Duty: Warzone",
+      "right_answer": "Fortnite"
+    },
+    {
+      "id": 10,
+      "question": "What is the name of the main character in the 'Assassin's Creed' series?",
+      "answer_1": "Ezio Auditore",
+      "answer_2": "Altair Ibn-La'Ahad",
+      "answer_3": "Connor Kenway",
+      "answer_4": "Bayek of Siwa",
+      "right_answer": "Ezio Auditore"
+    },
+    {
+      "id": 11,
+      "question": "In the game 'World of Warcraft,' which race is known for its connection to nature and druidic abilities?",
+      "answer_1": "Orc",
+      "answer_2": "Tauren",
+      "answer_3": "Night Elf",
+      "answer_4": "Undead",
+      "right_answer": "Night Elf"
+    },
+    {
+      "id": 12,
+      "question": "What is the primary weapon used by the protagonist in the 'Doom' series?",
+      "answer_1": "Shotgun",
+      "answer_2": "Chainsaw",
+      "answer_3": "BFG 9000",
+      "answer_4": "Rocket Launcher",
+      "right_answer": "Chainsaw"
+    },
+    {
+      "id": 13,
+      "question": "Which iconic video game character collects rings and battles the villain Dr. Robotnik?",
+      "answer_1": "Sonic the Hedgehog",
+      "answer_2": "Crash Bandicoot",
+      "answer_3": "Spyro the Dragon",
+      "answer_4": "Rayman",
+      "right_answer": "Sonic the Hedgehog"
+    }
+  ]
+}
